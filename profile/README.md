@@ -1,4 +1,4 @@
 # Quindar
-A platform for automated spacecraft operations
+A platform for automated spacecraft operations.
 
-https://www.quindar.space
+https://quindar.space
